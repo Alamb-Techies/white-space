@@ -4,13 +4,10 @@
 
 ---
 
-White Space lets you display text in a very large font directly from your smart phones.
-
-Which comes handy when you needs to display text to someone else staying at a distance.
-
-Rendering happens locally on your phone and your text is not transmitted to any servers. How cool!
-
-White Space was originally developed to communicate something to someone else at a distance at the time of Covid-19 pandemic.
+White Space lets you display text in a  large font directly from your smartphones.
+White Space comes in handy when you need to display text to someone else staying at a distance.
+Rendering happens locally on your phone therefore your text is never to any servers. How cool!
+White Space was originally developed to communicate something to someone else at a distance in the time of the Covid-19 pandemic.
 
 
 **How to Contribute**
